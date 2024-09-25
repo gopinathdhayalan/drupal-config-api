@@ -1,3 +1,3 @@
 # drupal-config-api
 
-#How to setup configuration managment
+# How to setup configuration managment
